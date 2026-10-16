@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Notre Mariage",
+    "slug": "notre-mariage-isaora-david",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "notremariage",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.isaora.david.notremariage",
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.isaora.david.notremariage",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-document-picker"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "REMPLACER_PAR_LE_PROJECT_ID_EAS"
+      }
+    }
+  }
+}
